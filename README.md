@@ -4,7 +4,7 @@
 
 File metadata microservice for Back End Development and APIs in [freeCodeCamp](https://www.freecodecamp.org/learn/).
 
-[Live Website](https://file-metadata-microservice.chiefwoods.repl.co/)
+[Live Website](https://file-metadata-microservice-chiefwoods.replit.app/)
 
 [Source Repository](https://github.com/ChiefWoods/file-metadata-microservice)
 
@@ -46,6 +46,10 @@ git clone https://github.com/ChiefWoods/file-metadata-microservice.git
 2. Install all dependencies
 ```
 npm install
+```
+3. Start development server
+```
+npm run start
 ```
 
 ## Issues
